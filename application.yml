@@ -1,0 +1,11 @@
+app:
+    greetingmessage: Seeta Ram
+    name: My app
+    description: welcome to ${app.name}
+    mylist: Kasturi devi, Raj bahadur, Shyam vati , Riya Baghel, Vikram 
+    mykeyvalue: "{connectionString:'http://localhota/bla-bla', username:'root', password:'root'}"
+
+db:
+    connection: connection-string-here-from-spring-config-server
+    host: 12.02.04
+    port: 8080
